@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html>
 <head>
 	<meta charset="utf-8">
-	<title>GitHub &amp; BitBucket HTML Preview</title>
+	<title>CSCI 4800 HCI Term Project</title>
 	
 </head>
 <body>
