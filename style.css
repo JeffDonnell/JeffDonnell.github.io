@@ -1,0 +1,73 @@
+body {
+	font-family: Arial; 
+	background: #BA0C2F;
+	padding: 20px;
+}
+
+h2 { 
+	border-bottom: solid;
+	padding-bottom: 5px;
+}
+
+header{ 
+	border: 5px solid black; 
+	text-align: center; 
+	background: #ffffff; 
+	border-radius: 24px;
+	padding: 20px;
+	margin-bottom: 20px;
+	
+}
+#container {
+	display: flex;
+	align-items: stretch;
+	margin-bottom: 20px;
+	
+}
+
+#name {
+	border: 5px solid black; 
+	text-align: center; 
+	background: #ffffff; 
+	border-radius: 24px;
+	padding: 20px;
+	float: left;
+	width: 50%;
+ 	felx:50%;
+	margin-right: 20px;
+}
+
+#members {
+	border: 5px solid black; 
+	text-align: center; 
+	background: #ffffff; 
+	border-radius: 24px;
+	padding: 20px;
+	float: right;
+	felx:50%;
+	width: 50%;
+  	
+}
+
+.box {
+	border: 5px solid black; 
+	text-align: center; 
+	background: #ffffff; 
+	border-radius: 24px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#teamName {
+	text-align: center;
+	height: 80px;
+  	line-height: 80px; 
+}
+
+ul {
+	 text-align: left;
+}
+
+p {
+	text-align: left;
+}
