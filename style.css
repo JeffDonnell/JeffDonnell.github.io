@@ -64,6 +64,10 @@ header{
   	line-height: 80px; 
 }
 
+#syn{
+	text-indent: 50px;
+}
+
 ul {
 	 text-align: left;
 }
